@@ -68,10 +68,10 @@ const NavBar = () => {
             <a className='flex justify-between items-center w-full text-gray-300' href='mailto: shakil.miah@georgebrown.ca'>Email <HiOutlineMail size={40} /> </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-200 bg-[#007583]'>
-            <a className='flex justify-between items-center w-full text-gray-300' href='/resume.pdf'target={'_blank'} >Resume <BsFillPersonLinesFill size={40} /> </a>
+            <a className='flex justify-between items-center w-full text-gray-300' href='/Resume.pdf'target={'_blank'} >Resume <BsFillPersonLinesFill size={40} /> </a>
           </li>
           <li className='w-[160px] h-[60px] flex justify-between items-center ml-[-100px] hover:ml-[-10px] duration-200 bg-[#00A789]'>
-            <a className='flex justify-between items-center w-full text-gray-300' href='/cv.pdf' target={'_blank'} >Cover Letter <SlEnvolopeLetter size={40} /> </a>
+            <a className='flex justify-between items-center w-full text-gray-300' href='/CV.pdf' target={'_blank'} >Cover Letter <SlEnvolopeLetter size={40} /> </a>
           </li>
 
         </ul>
